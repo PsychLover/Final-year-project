@@ -2,8 +2,8 @@ The 2 spectra shown in the .pdf file are taken from the newest starting material
 
 CC001: 1st batch/experiment
 
--CC002: 2nd batch/experiment
+CC002: 2nd batch/experiment
 
--crude: before column chromatography
+crude: before column chromatography
 
--pure: after column chromatography
+pure: after column chromatography
