@@ -7,3 +7,5 @@ Recent discovery of our group suggested a new molecular structure of the dimer p
 I would like to thank my colleague, Miss Susie Petri, for the calibration curve calculation and plotting.
 
 It was clarified afterwards that the LC-MS signals for the dimer are actually 260.7 and 282.3 shown at the 'Dimer LC-MS Screening Spectra.pdf' file, not 260.1 and 320.1 shown at the dissertation.
+
+The raw data contains other types of product spectra not shown by the 2 PDF files.
