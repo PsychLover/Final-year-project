@@ -1,0 +1,14 @@
+Name,Dielectric Constant,SMILE,Polar,Protic,Chlorinated,aromatic
+chloroform,4.89,ClC(Cl)Cl,1,0,1,0
+"1,2-dichloroethane",10.74,ClCCCl,1,0,1,0
+dichloromethane,9.02,ClCCl,1,0,1,0
+tert-amyl alcohol,11.52,CCC(C)(O)C,1,1,0,0
+toluene,2.43,CC1=CC=CC=C1,0,0,0,1
+mesitylene,2.4,CC1=CC(C)=CC(C)=C1,0,0,0,1
+"?,?,?-trifluorotoluene",9.1,FC(F)(F)C1=CC=CC=C1,0,0,0,1
+hexafluorobenzene,2.05,FC1=C(F)C(F)=C(F)C(F)=C1F,0,0,0,1
+perfluorohexane,1.57,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,0,0,0,1
+nitromethane,36.16,C[N+]([O-])=O,1,0,0,0
+water,79.42,[H]O[H],1,1,0,0
+THF,7.47,C1CCOC1,1,0,0,0
+"1,4-dioxane",2.27,O1CCOCC1,1,0,0,0
