@@ -1,0 +1,180 @@
+Entry,Catalyst,Solvent,Cosolvent,Additives,temp in degree celsius,cat. loading mol%,time in min,yield
+1,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,58
+2,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,61
+3,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,60
+4,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,none,none,21,10,2,nil
+5,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,none,none,21,10,4,nil
+6,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,none,none,21,10,8,nil
+7,CC1=CC=C(S(O)(=O)=O)C=C1,none,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,3
+8,CC1=CC=C(S(O)(=O)=O)C=C1,none,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,6
+9,CC1=CC=C(S(O)(=O)=O)C=C1,none,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,7
+10,none,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,nil
+11,none,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,nil
+12,none,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,nil
+13,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,F/C(F)=C(F)\F,none,21,10,2,21
+14,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,F/C(F)=C(F)\F,none,21,10,4,23
+15,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,F/C(F)=C(F)\F,none,21,10,8,24
+16,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(C(F)(F)F)(O)C(F)(F)F,none,21,10,2,1
+17,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(C(F)(F)F)(O)C(F)(F)F,none,21,10,4,2
+18,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(C(F)(F)F)(O)C(F)(F)F,none,21,10,8,6
+19,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,CC(C)(O)C,none,21,10,2,nil
+20,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,CC(C)(O)C,none,21,10,4,nil
+21,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,CC(C)(O)C,none,21,10,8,nil
+22,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,CC(O)C,none,21,10,2,nil
+23,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,CC(O)C,none,21,10,4,nil
+24,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,CC(O)C,none,21,10,8,nil
+25,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,O=S([O-])([O-])=O.[Na+].[Na+],21,10,2,53
+26,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,O=S([O-])([O-])=O.[Na+].[Na+],21,10,4,54
+27,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,O=S([O-])([O-])=O.[Na+].[Na+],21,10,8,49
+28,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[O-][Si](=O)[O-].[O-][Si](=O)[O-].[Na+].[Al+3],21,10,2,50
+29,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[O-][Si](=O)[O-].[O-][Si](=O)[O-].[Na+].[Al+3],21,10,4,54
+30,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[O-][Si](=O)[O-].[O-][Si](=O)[O-].[Na+].[Al+3],21,10,8,49
+31,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,O=C1CC[C@@]2([H])[C@]3([H])CC=C4C[C@@H](OC(C)=O)CC[C@]4(C)[C@@]3([H])CC[C@]12C,21,10,2,30
+32,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,O=C1CC[C@@]2([H])[C@]3([H])CC=C4C[C@@H](OC(C)=O)CC[C@]4(C)[C@@]3([H])CC[C@]12C,21,10,4,27
+33,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,O=C1CC[C@@]2([H])[C@]3([H])CC=C4C[C@@H](OC(C)=O)CC[C@]4(C)[C@@]3([H])CC[C@]12C,21,10,8,28
+34,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,CC(C1=CC(C)=CC(C(C)(C)C)=C1O)(C)C,21,10,2,28
+35,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,CC(C1=CC(C)=CC(C(C)(C)C)=C1O)(C)C,21,10,4,25
+36,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,CC(C1=CC(C)=CC(C(C)(C)C)=C1O)(C)C,21,10,8,23
+37,O=S(C1=CC=CC=C1)(O)=O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,40
+38,O=S(C1=CC=CC=C1)(O)=O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,41
+39,O=S(C1=CC=CC=C1)(O)=O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,37
+40,O=S(C1=CC=CC=C1)(O)=O + 0.1 eq.H2O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,2,38
+41,O=S(C1=CC=CC=C1)(O)=O + 0.1 eq.H2O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,4,41
+42,O=S(C1=CC=CC=C1)(O)=O + 0.1 eq.H2O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,8,37
+43,O=S(C1=CC=CC=C1)(O)=O + 1 eq.H2O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,2,38
+44,O=S(C1=CC=CC=C1)(O)=O + 1 eq.H2O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,4,38
+45,O=S(C1=CC=CC=C1)(O)=O + 1 eq.H2O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,8,37
+46,CC1(C)[C@]2([H])CC[C@@]1(CS(O)(=O)=O)C(C2)=O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,27
+47,CC1(C)[C@]2([H])CC[C@@]1(CS(O)(=O)=O)C(C2)=O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,25
+48,CC1(C)[C@]2([H])CC[C@@]1(CS(O)(=O)=O)C(C2)=O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,22
+49,CC1(C)[C@]2([H])CC[C@@]1(CS(O)(=O)=O)C(C2)=O + 0.1 eq.H2O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,2,25
+50,CC1(C)[C@]2([H])CC[C@@]1(CS(O)(=O)=O)C(C2)=O + 0.1 eq.H2O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,4,24
+51,CC1(C)[C@]2([H])CC[C@@]1(CS(O)(=O)=O)C(C2)=O + 0.1 eq.H2O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,8,23
+52,CC1(C)[C@]2([H])CC[C@@]1(CS(O)(=O)=O)C(C2)=O + 1 eq.H2O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,2,28
+53,CC1(C)[C@]2([H])CC[C@@]1(CS(O)(=O)=O)C(C2)=O + 1 eq.H2O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,4,24
+54,CC1(C)[C@]2([H])CC[C@@]1(CS(O)(=O)=O)C(C2)=O + 1 eq.H2O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,8,23
+55,O=S(C1=CC=CC=C1C2=CN=NC(C3=NC=C(C4=CC=CC=C4S(=O)([O-])=O)C=C3)=N2)([O-])=O.[Na+].[Na+],ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,5
+56,O=S(C1=CC=CC=C1C2=CN=NC(C3=NC=C(C4=CC=CC=C4S(=O)([O-])=O)C=C3)=N2)([O-])=O.[Na+].[Na+],ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,traces
+57,O=S(C1=CC=CC=C1C2=CN=NC(C3=NC=C(C4=CC=CC=C4S(=O)([O-])=O)C=C3)=N2)([O-])=O.[Na+].[Na+],ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,5
+58,CS(=O)(O)=O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,30
+59,CS(=O)(O)=O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,25
+60,CS(=O)(O)=O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,22
+61,O=S(O)(C(F)(F)F)=O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,regio
+62,O=S(O)(C(F)(F)F)=O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,regio
+63,O=S(O)(C(F)(F)F)=O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,regio
+64,O=S(NS(=O)(C(F)(F)F)=O)(C(F)(F)F)=O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,22
+65,O=S(NS(=O)(C(F)(F)F)=O)(C(F)(F)F)=O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,21
+66,O=S(NS(=O)(C(F)(F)F)=O)(C(F)(F)F)=O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,25
+67,O=C(O)C(F)(F)F,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,12
+68,O=C(O)C(F)(F)F,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,16
+69,O=C(O)C(F)(F)F,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,7
+70,CCCC[N+](CCCC)(CCCC)CCCC.[O-]S(=O)(O)=O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,3
+71,CCCC[N+](CCCC)(CCCC)CCCC.[O-]S(=O)(O)=O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,5
+72,CCCC[N+](CCCC)(CCCC)CCCC.[O-]S(=O)(O)=O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,traces
+73,OC1=C(F)C(F)=C(F)C(F)=C1F,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,nil
+74,OC1=C(F)C(F)=C(F)C(F)=C1F,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,nil
+75,OC1=C(F)C(F)=C(F)C(F)=C1F,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,nil
+76,O=P(OC1=CC=CC=C1)(OC2=CC=CC=C2)O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,19
+77,O=P(OC1=CC=CC=C1)(OC2=CC=CC=C2)O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,20
+78,O=P(OC1=CC=CC=C1)(OC2=CC=CC=C2)O,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,16
+79,O=P(OC1=CC=C2C(C=CC=C2)=C31)(O)OC4=C3C(C=CC=C5)=C5C=C4,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,16
+80,O=P(OC1=CC=C2C(C=CC=C2)=C31)(O)OC4=C3C(C=CC=C5)=C5C=C4,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,16
+81,O=P(OC1=CC=C2C(C=CC=C2)=C31)(O)OC4=C3C(C=CC=C5)=C5C=C4,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,13
+82,O=P(O)(O)O crystals,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,1
+83,O=P(O)(O)O crystals,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,8
+84,O=P(O)(O)O crystals,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,12
+85,O=P(O)(O)O (85% wt.in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,2,1
+86,O=P(O)(O)O (85% wt.in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,4,3
+87,O=P(O)(O)O (85% wt.in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,8,traces
+88,O=Cl(=O)(O)=O (70% wt.in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,2,1
+89,O=Cl(=O)(O)=O (70% wt.in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,4,2
+90,O=Cl(=O)(O)=O (70% wt.in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,8,traces
+91,[H]Cl (4N in dioxane),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,O1CCOCC1,21,10,2,3
+92,[H]Cl (4N in dioxane),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,O1CCOCC1,21,10,4,traces
+93,[H]Cl (4N in dioxane),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,O1CCOCC1,21,10,8,traces
+94,[H]Cl (37% wt. in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,2,11
+95,[H]Cl (37% wt. in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,4,traces
+96,[H]Cl (37% wt. in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,8,traces
+97,[H]Br (48% wt.in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,2,1
+98,[H]Br (48% wt.in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,4,2
+99,[H]Br (48% wt.in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,8,1
+100,[H]Br (5-10% wt. in methanol),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,CO,21,10,2,traces
+101,[H]Br (5-10% wt. in methanol),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,CO,21,10,4,1
+102,[H]Br (5-10% wt. in methanol),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,CO,21,10,8,1
+103,[H]I (57% wt.in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,2,traces
+104,[H]I (57% wt.in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,4,3
+105,[H]I (57% wt.in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,8,3
+106,F[P-](F)(F)(F)(F)F.[H+] (60% wt.in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,2,2
+107,F[P-](F)(F)(F)(F)F.[H+] (60% wt.in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,4,2
+108,F[P-](F)(F)(F)(F)F.[H+] (60% wt.in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,8,2
+109,F[B-](F)(F)F.[H+] (48% wt.in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,2,nil
+110,F[B-](F)(F)F.[H+] (48% wt.in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,4,nil
+111,F[B-](F)(F)F.[H+] (48% wt.in H2O),ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,[H]O[H],21,10,8,nil
+112,CC1=CC=C(S(O)(=O)=O)C=C1,ClCCCl,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,25
+113,CC1=CC=C(S(O)(=O)=O)C=C1,ClCCCl,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,23
+114,CC1=CC=C(S(O)(=O)=O)C=C1,ClCCCl,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,25
+115,CC1=CC=C(S(O)(=O)=O)C=C1,ClCCl,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,26
+116,CC1=CC=C(S(O)(=O)=O)C=C1,ClCCl,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,28
+117,CC1=CC=C(S(O)(=O)=O)C=C1,ClCCl,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,28
+118,CC1=CC=C(S(O)(=O)=O)C=C1,CCC(C)(O)C,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,nil
+119,CC1=CC=C(S(O)(=O)=O)C=C1,CCC(C)(O)C,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,nil
+120,CC1=CC=C(S(O)(=O)=O)C=C1,CCC(C)(O)C,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,nil
+121,CC1=CC=C(S(O)(=O)=O)C=C1,CC1=CC=CC=C1,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,27
+122,CC1=CC=C(S(O)(=O)=O)C=C1,CC1=CC=CC=C1,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,29
+123,CC1=CC=C(S(O)(=O)=O)C=C1,CC1=CC=CC=C1,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,27
+124,CC1=CC=C(S(O)(=O)=O)C=C1,CC1=CC(C)=CC(C)=C1,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,37
+125,CC1=CC=C(S(O)(=O)=O)C=C1,CC1=CC(C)=CC(C)=C1,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,27
+126,CC1=CC=C(S(O)(=O)=O)C=C1,CC1=CC(C)=CC(C)=C1,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,27
+127,CC1=CC=C(S(O)(=O)=O)C=C1,FC(F)(F)C1=CC=CC=C1,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,23
+128,CC1=CC=C(S(O)(=O)=O)C=C1,FC(F)(F)C1=CC=CC=C1,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,25
+129,CC1=CC=C(S(O)(=O)=O)C=C1,FC(F)(F)C1=CC=CC=C1,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,26
+130,CC1=CC=C(S(O)(=O)=O)C=C1,FC1=C(F)C(F)=C(F)C(F)=C1F,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,23
+131,CC1=CC=C(S(O)(=O)=O)C=C1,FC1=C(F)C(F)=C(F)C(F)=C1F,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,23
+132,CC1=CC=C(S(O)(=O)=O)C=C1,FC1=C(F)C(F)=C(F)C(F)=C1F,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,24
+133,CC1=CC=C(S(O)(=O)=O)C=C1,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,13
+134,CC1=CC=C(S(O)(=O)=O)C=C1,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,20
+135,CC1=CC=C(S(O)(=O)=O)C=C1,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,18
+136,CC1=CC=C(S(O)(=O)=O)C=C1,C[N+]([O-])=O,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,24
+137,CC1=CC=C(S(O)(=O)=O)C=C1,C[N+]([O-])=O,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,20
+138,CC1=CC=C(S(O)(=O)=O)C=C1,C[N+]([O-])=O,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,17
+139,CC1=CC=C(S(O)(=O)=O)C=C1,[H]O[H],FC(F)(F)C(O)C(F)(F)F,none,21,10,2,nil
+140,CC1=CC=C(S(O)(=O)=O)C=C1,[H]O[H],FC(F)(F)C(O)C(F)(F)F,none,21,10,4,nil
+141,CC1=CC=C(S(O)(=O)=O)C=C1,[H]O[H],FC(F)(F)C(O)C(F)(F)F,none,21,10,8,nil
+145,CC1=CC=C(S(O)(=O)=O)C=C1,C1CCOC1,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,nil
+146,CC1=CC=C(S(O)(=O)=O)C=C1,C1CCOC1,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,nil
+147,CC1=CC=C(S(O)(=O)=O)C=C1,C1CCOC1,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,nil
+148,CC1=CC=C(S(O)(=O)=O)C=C1,O1CCOCC1,FC(F)(F)C(O)C(F)(F)F,none,21,10,2,nil
+149,CC1=CC=C(S(O)(=O)=O)C=C1,O1CCOCC1,FC(F)(F)C(O)C(F)(F)F,none,21,10,4,nil
+150,CC1=CC=C(S(O)(=O)=O)C=C1,O1CCOCC1,FC(F)(F)C(O)C(F)(F)F,none,21,10,8,nil
+151,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,0.5,2,nil
+152,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,0.5,4,3
+153,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,0.5,8,3
+154,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,0.5,24,11
+155,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,1,2,5
+156,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,1,4,10
+157,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,1,8,16
+158,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,1,24,23
+159,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,2,2,25
+160,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,2,4,27
+161,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,2,8,29
+162,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,2,24,22
+163,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,25,2,27
+164,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,25,4,26
+165,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,25,24,24
+166,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,50,2,5
+167,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,50,4,5
+168,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,50,8,4
+169,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,50,24,6
+170,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,110,2,nil
+171,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,110,4,nil
+172,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,110,8,3
+173,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,21,110,24,nil
+174,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,10,10,2,32
+175,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,10,10,4,32
+176,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,10,10,8,35
+177,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,10,10,24,31
+178,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,50,10,0.5,32
+179,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,50,10,1,33
+180,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,50,10,2,30
+181,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,50,10,4,34
+182,CC1=CC=C(S(O)(=O)=O)C=C1,ClC(Cl)Cl,FC(F)(F)C(O)C(F)(F)F,none,50,10,8,31
